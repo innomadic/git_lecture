@@ -37,4 +37,4 @@ Source Code Control
 
 1. Create repository `git init`
 2. View history `git log`
-
+3. Status `git status`
